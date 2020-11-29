@@ -55,14 +55,14 @@ logo = """
 ██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
 ██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-           Owner: Chand Goraya 
+           Owner: Kachi Lee
        subcribe my YouTube channel
-          Chand Goraya Tech
-           Pakistan Zindabad
+          Kachi Lee Tech
+           Nigerian black hacker
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mChand goraya\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mWhatsapp  \033[1;33m : \033[1;33m\033[4m923116524539\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mChand goraya-tech\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mKachi Lee\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mWhatsapp  \033[1;33m : \033[1;33m\033[4m+2349035850097\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mKachi Lee-tech\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -82,13 +82,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 03116524539\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : CHAND GORAYA\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTHIS TOOL BY CHAND GORAYA\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : CHAND GORAYA TECH\x1b[0;31m"""
+print  """\x1b[0;31m [¤] \x1b[0;31mGREETINGS MY FRIEND\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +2349035850097\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : KACHI LEE\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mTHIS TOOL IS POWDERED BY KACHI LEE\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : KACHI LEE TECH\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "Chand"
-CorrectPassword = "Goraya"
+CorrectUsername = "IMO"
+CorrectPassword = "STATE"
 
 loop = 'true'
 while (loop == 'true'):
